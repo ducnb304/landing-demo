@@ -1,0 +1,50 @@
+.carousel-item>img {
+	max-height: 500px;
+}
+
+.lul {
+	justify-self: center;
+	width: 70%;
+	align-self: end;
+	margin-bottom: 20px;
+	color: #fff;
+	
+}
+
+.chipset {
+	background-image: url("chip.jpeg");
+	background-position: center;
+	width: 100%;
+	height: 500px;
+	display: grid;
+}
+
+#h4-performance {
+	text-align: center;
+	font-size: 30px;
+}
+
+.design {
+	display: grid;
+	height: 600px;
+	width: 100%;
+	background-position: center;
+	background-image: url("thietke.jpg");
+	color: yellow;
+	font-size: 30px;
+}
+
+
+.details {
+	text-align: center;
+}
+
+.chipset {
+	display: grid;
+	height: 600px;
+	width: 100%;
+	background-position: center;
+	background-image: url("chipset.png");
+	color: yellow;
+	font-size: 30px;
+}
